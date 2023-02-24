@@ -1,0 +1,126 @@
+#DrawerDatas {
+  overflow-x: hidden !important;
+  color: #fff !important;
+}
+#DrawerDatas::-webkit-scrollbar {
+  width: 1px;
+  border: none;
+  background: #232323 !important;
+  overflow-y: hidden !important;
+  color: #fff !important;
+}
+#DrawerDatas::-webkit-scrollbar-thumb {
+  background: #232323 !important;
+  overflow-y: hidden !important;
+  color: #fff !important;
+}
+
+
+
+#cards {
+  border-radius: 10px;
+  border: none;
+  position: relative;
+  margin-bottom: 30px;
+  box-shadow: 0 0.46875rem 2.1875rem rgb(90 97 105 / 10%),
+    0 0.9375rem 1.40625rem rgb(90 97 105 / 10%),
+    0 0.25rem 0.53125rem rgb(90 97 105 / 12%),
+    0 0.125rem 0.1875rem rgb(90 97 105 / 10%);
+    width: 100%;
+}
+
+.NavLink {
+  text-decoration: none;
+  color: black;
+}
+
+/* .css-jzk4qw-MuiPaper-root-MuiAppBar-root {
+  background-color: #1aa7d4 !important;
+  color: #fff;
+}
+.css-ciy9n4-MuiPaper-root-MuiAppBar-root {
+  background-color: #1aa7d4 !important ;
+  color: #fff;
+} */
+
+.drawecontent {
+  display: none !important;
+}
+
+@media(max-width:768px) {
+  .drawecontent {
+      display: block !important;
+  }
+  .backgrounimgstyle {
+      display: none !important;
+  }
+  .viewmemst{
+    padding: 60px 10px !important;
+  }
+}
+
+Link{
+  text-decoration: none;
+  color: #fff;
+
+}
+
+/* .yyy{
+  background-color:  "linear-gradient(34.54deg, #000046 0%, #1CB5E0 100%)" !important;
+}
+
+#yyy{
+  background-color:  "linear-gradient(34.54deg, #000046 0%, #1CB5E0 100%)" !important;
+} */
+
+
+
+#zzzs{
+  background: white !important;
+}
+/* 
+#yyys{
+  background: #232323 !important;
+  color:'white'!important ;
+} */
+
+.directory-overlays{
+
+  background: #232323;
+  padding: 20px;
+
+}
+
+#rr {
+  /* overflow-y: scroll; */
+  width: 80% !important;
+}
+
+
+.mini-stat-icon i {
+  font-size: 30px;
+  width: 64px;
+  height: 64px;
+  line-height: 64px;
+  text-align: center;
+  /* color: white !important; */
+  color:rgb(255, 255, 255) !important;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.1);
+  display: inline-block;
+}
+.mini-stat {
+  border: none;
+  width: 100%;
+}
+
+.mini-stat-img {
+  /* background: linear-gradient(34.54deg, #000046 0%, #1CB5E0 100%); */
+  background-size: cover;
+  border-radius: 7px;
+}
+
+
+.viewmemst{
+  padding: 80px 100px;
+}

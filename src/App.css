@@ -1,0 +1,474 @@
+/* .sidebar {
+  background: linear-gradient(34.54deg, #000046 0%, #1cb5e0 100%);
+} */
+
+.css-10hburv-MuiTypography-root {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  display: block;
+  font-size: 13.3px !important;
+}
+
+.ons :hover {
+  background: white !important;
+  color: black !important;
+}
+
+.directory-card .directory-overlay {
+  /* background: linear-gradient(119.54deg, #000046 0%, #1cb5e0 100%);
+  padding: 20px; */
+  background: #232323;
+  padding: 20px;
+
+}
+
+.directory-card img {
+  position: relative;
+  top: 60px;
+}
+
+
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif !important;
+  font-size: 14px !important;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #5b626b;
+  background-color: #f5f5f5;
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+.mainn{
+  width: 100%;
+  overflow-x: hidden;
+}
+
+.css-b6vn12-MuiTreeItem-root {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  color: rgba(0, 0, 0, 0.6);
+  padding: 0px !important;
+}
+
+.css-1g86id8-MuiTreeItem-content .MuiTreeItem-iconContainer {
+  /* display: none !important; */
+  float: right !important;
+}
+
+.css-1g86id8-MuiTreeItem-content.Mui-selected:hover {
+  background-color: rgba(25, 118, 210, 0.12);
+  /* border: 0px; */
+  border-radius: 0px !important;
+}
+
+.css-1g86id8-MuiTreeItem-content.Mui-selected:active {
+  background-color: rgba(25, 118, 210, 0.12);
+  /* border: 0px; */
+  border-radius: 0px !important;
+}
+
+.css-1g86id8-MuiTreeItem-content.Mui-selected {
+  background-color: rgba(25, 118, 210, 0.12);
+  /* border: 0px; */
+  border-radius: 0px !important;
+}
+
+.css-ju13j4 {
+  padding: 10px !important;
+  padding-right: 1px;
+}
+
+.css-b6vn12-MuiTreeItem-root .MuiTreeItem-content:hover {
+  background-color: rgba(0, 0, 0, 0.04);
+  border-radius: 0px;
+}
+
+.css-jqkull-MuiSvgIcon-root {
+  margin-right: 20px !important;
+}
+
+.css-12i7wg6-MuiPaper-root-MuiDrawer-paper {
+  background: linear-gradient(34.54deg, #000046 0%, #1cb5e0 100%);
+  color: #ffff(0, 0, 0, 0.87);
+}
+
+.css-b6vn12-MuiTreeItem-root .MuiTreeItem-content .MuiTreeItem-label {
+  font-weight: inherit;
+  color: #fff !important;
+}
+
+/* .css-1191obr-MuiPaper-root-MuiAppBar-root {
+  background-color: #1babd7 !important;
+}
+
+.css-19z1ozs-MuiPaper-root-MuiAppBar-root {
+  background-color: #1babd7 !important;
+} */
+
+.css-b6vn12-MuiTreeItem-root .MuiTreeItem-group .MuiTreeItem-content {
+  padding-left: 45px !important;
+}
+
+.css-1g86id8-MuiTreeItem-content {
+  padding: 0 8px;
+  width: 100%;
+  display: inline-block !important;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.css-1g86id8-MuiTreeItem-content .MuiTreeItem-iconContainer svg {
+  font-size: 18px;
+  margin-top: 14px;
+  color: #fff;
+}
+
+.css-b6vn12-MuiTreeItem-root .MuiTreeItem-content {
+  color: rgba(0, 0, 0, 0.6);
+  border-top-right-radius: 16px;
+  border-bottom-right-radius: 16px;
+  padding-right: 0px;
+  font-weight: 500;
+}
+
+.cardmrg {
+  padding: 80px 0px 0px 0px;
+  overflow-x: hidden;
+  background: #f5f5f5;
+}
+
+/* .mini-stat {
+  border: none;
+  width: 100%;
+}
+
+.mini-stat-img {
+  background: linear-gradient(34.54deg, #000046 0%, #1cb5e0 100%);
+  background-size: cover;
+}
+
+.mini-stat-icon i {
+  font-size: 30px;
+  width: 64px;
+  height: 64px;
+  line-height: 64px;
+  text-align: center;
+  color: white !important;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.1);
+  display: inline-block;
+} */
+
+.css-zxdg2z {
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  padding: 0px !important;
+}
+
+.cotainerstyle {
+  padding: 16px 30px 0px 13px;
+}
+
+.adsimgstyel {
+  margin-left: 0px !important;
+}
+
+@media screen {
+  .cotainerstyle {
+    padding: 16px 30px 0px 13px;
+  }
+}
+
+.listbtns {
+  width: 75px;
+  margin: 5px;
+}
+
+.bankstyle {
+  padding: 0px 90px 0px 90px;
+  margin-top: 80px;
+}
+
+.marstyle {
+  margin-top: 70px;
+}
+
+.btnsflot {
+  float: right;
+}
+
+.cardstyles {
+  padding: 60px !important;
+}
+
+.cardstyles2 {
+  padding: 0px 180px 20px 180px !important;
+}
+
+.regtab {
+  font-size: 20px;
+  border: 2px solid #7a6fbe;
+  border-radius: 25px;
+  padding: 7px;
+}
+
+.regtab:hover {
+  color: "#fffff";
+  background: "7a6fbe";
+}
+
+i.regtab:hover {
+  background: #7a6fbe;
+  color: white;
+}
+
+i.regtab:active {
+  background: #7a6fbe;
+  color: white;
+}
+
+ul.l.i:active {
+  background: #7a6fbe;
+  color: white;
+}
+
+.backgrounimg {
+  background-repeat: no-repeat;
+}
+
+.adsimgstyel {
+  margin-left: 0px !important;
+}
+
+.directory-card {
+  overflow: hidden;
+}
+
+.directory-bg {
+  /* background-image: url("../../../../assets/images/directory-bg.jpg"); */
+  background-size: cover;
+  background-position: center center;
+}
+.directory-overlay {
+  /* background: linear-gradient(34.54deg, #000046 0%, #1cb5e0 100%);
+  padding: 20px; */
+  background: #232323;
+  padding: 20px;
+
+}
+.directory-card img {
+  position: relative;
+  top: 60px;
+}
+
+@media (max-width: 768px) {
+  .bankstyle {
+    padding: 0px;
+    margin-top: 80px;
+  }
+
+  .backgrounimg {
+    background: none !important;
+  }
+
+  .membtnstyle {
+    width: 100% !important;
+    margin-left: 0px !important;
+  }
+
+  .btnsflot {
+    float: none;
+  }
+
+  .cardstyles {
+    padding: 10px !important;
+  }
+
+  .cardstyles2 {
+    padding: 20px !important;
+  }
+
+  .adsimgstyel {
+    margin-left: none;
+  }
+}
+
+/* .css-bshv44-MuiButtonBase-root-MuiListItem-root :hover {
+  background: white;
+  color:black
+} */
+/* .zzz :hover {
+  background: white;
+  color: black;
+  text-decoration: none;
+} */
+
+.pagination > li {
+  display: inline-block;
+  padding-left: 0;
+}
+.pagination > li {
+  list-style: none;
+}
+.pagination > li > a,
+.pagination > li > span {
+  position: relative;
+  float: left;
+  padding: 6px 12px;
+  line-height: 1.42857143;
+  text-decoration: none;
+  color: white;
+}
+
+.pagination > li.active > a {
+  color: #fff;
+  background-color: rgb(13,85,143);
+  border-color: rgb(13,85,143);
+}
+
+/* Style the active class (and buttons on mouse-over) */
+.pagination > li > a:hover {
+  background-color: rgb(13,85,143);
+  color: white;
+}
+.pagination > li:first-child > a,
+.pagination > li:first-child > span {
+  margin-left: 0;
+  padding: 0px;
+  border-bottom-left-radius: 4px;
+  border-top-left-radius: 4px;
+  display: none !important;
+}
+.pagination > li:last-child > a,
+.pagination > li:last-child > span {
+  border-bottom-right-radius: 4px;
+  margin-right: 0;
+  padding: 0px !important;
+  border-top-right-radius: 4px;
+  display: none !important;
+}
+
+.btn-danger {
+  --bs-btn-bg: #ec536c;
+  --bs-btn-border-color: #ec536c;
+  --bs-btn-hover-color: #fff;
+  --bs-btn-hover-bg: #c9475c;
+  --bs-btn-hover-border-color: #bd4256;
+  --bs-btn-focus-shadow-rgb: 239, 109, 130;
+  --bs-btn-active-color: #fff;
+  --bs-btn-active-bg: #bd4256;
+  --bs-btn-active-border-color: #b13e51;
+  --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+  --bs-btn-disabled-color: #fff;
+  --bs-btn-disabled-bg: #ec536c;
+  --bs-btn-disabled-border-color: #ec536c;
+}
+
+.btn-info {
+  --bs-btn-color: #fff;
+  --bs-btn-bg: #29bbe3;
+  --bs-btn-border-color: #29bbe3;
+  --bs-btn-hover-color: #fff;
+  --bs-btn-hover-bg: #239fc1;
+  --bs-btn-hover-border-color: #2196b6;
+  --bs-btn-focus-shadow-rgb: 73, 197, 231;
+  --bs-btn-active-color: #fff;
+  --bs-btn-active-bg: #2196b6;
+  --bs-btn-active-border-color: #1f8caa;
+  --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+  --bs-btn-disabled-color: #fff;
+  --bs-btn-disabled-bg: #29bbe3;
+  --bs-btn-disabled-border-color: #29bbe3;
+}
+
+.btn-primary {
+  --bs-btn-color: #fff;
+  --bs-btn-bg: #7a6fbe;
+  --bs-btn-border-color: #7a6fbe;
+  --bs-btn-hover-color: #fff;
+  --bs-btn-hover-bg: #685ea2;
+  --bs-btn-hover-border-color: #625998;
+  --bs-btn-focus-shadow-rgb: 142, 133, 200;
+  --bs-btn-active-color: #fff;
+  --bs-btn-active-bg: #625998;
+  --bs-btn-active-border-color: #5c538f;
+  --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+  --bs-btn-disabled-color: #fff;
+  --bs-btn-disabled-bg: #7a6fbe;
+  --bs-btn-disabled-border-color: #7a6fbe;
+}
+
+Link {
+  text-decoration-line: none;
+}
+
+/* 
+.css-jzk4qw-MuiPaper-root-MuiAppBar-root {
+  background-color: #1aa7d4 !important;
+  color: #fff;
+}
+.css-ciy9n4-MuiPaper-root-MuiAppBar-root {
+  background-color: #1aa7d4 !important ;
+  color: #fff;
+} */
+
+.drawecontent {
+  display: none !important;
+}
+
+.css-63vwl1-MuiTypography-root-MuiBreadcrumbs-root {
+  margin: 0;
+  font-family: 'Poppins', sans-serif !important;
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1.5;
+  letter-spacing: 0.00938em;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+
+@media(max-width:768px) {
+  .drawecontent {
+      display: block !important;
+  }
+  .backgrounimgstyle {
+      display: none !important;
+  }
+  .cotainerstyle {
+    padding: 16px 30px 0px 13px;
+}
+.cotainerstyle2 {
+    padding: 16px 30px 0px 13px;
+}
+.css-h3fjh {
+  -webkit-box-flex: 2;
+  -webkit-flex-grow: 2;
+  -ms-flex-positive: 2;
+  flex-grow: 2;
+  padding: 10px !important;
+}
+.css-yfo96e {
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  padding: 24px;
+  -webkit-transition: margin 195ms cubic-bezier(0.4, 0, 0.6, 1) 0ms;
+  transition: margin 195ms cubic-bezier(0.4, 0, 0.6, 1) 0ms;
+  margin-left: -290px !important;
+}
+
+
+}

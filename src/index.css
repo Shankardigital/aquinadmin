@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: rgb(240,240,240);
+  overflow-x: hidden ! important;
+  width: 100%  ! important;
+}
+
+
+#sidebar-menu {
+  padding: 10px 0 30px 0
+}
+
+.NavLinks{
+color: white;
+text-decoration: none;
+}
